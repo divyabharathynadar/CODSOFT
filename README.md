@@ -4,7 +4,7 @@ This repository consists of the tasks which I have completed given during **Data
 
 # About CODSOFT
 
-<img src="https://github.com/divyabharathynadar/Task-6_Prediction-using-decision-tree-algorithm/blob/main/tsf.png">
+<img src="https://github.com/divyabharathynadar/CODSOFT/blob/main/Codsoft.png">
 
 **CODSOFT** (https://www.codsoft.in/) are IT services and IT consultancy  that specializes in creating innovative solutions for businesses. They are passionate about technology and believe in the power of software to transform the world. Their internship programs are just one of the ways in which they invest in the future of the industry.
 
