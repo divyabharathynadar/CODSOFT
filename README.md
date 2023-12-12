@@ -43,7 +43,7 @@ Machine learning model that is builded identifies fraudulent credit card transac
 
 To see the implementation click on this link - 
 
-# Authors
+# Author
 
 * **Divyabharathy Nadar**  - [Github](https://github.com/divyabharathynadar/)
                      - [Linkedin](https:https://www.linkedin.com/in/divyabharathy-nadar-108546214/)
