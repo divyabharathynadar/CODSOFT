@@ -1,6 +1,6 @@
 # CODSOFT - Internship Tasks
 
-This repository consists of the tasks which I have completed given during **Data Science internship** at **CODSOFT** (Batch: November 2023)
+This repository consists of the tasks which I have completed given during **Data Science internship** at **CODSOFT** 
 
 # About CODSOFT
 
